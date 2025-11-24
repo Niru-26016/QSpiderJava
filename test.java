@@ -12,7 +12,6 @@ public class test {
         System.out.println( true == true);
         System.out.println( 'a'/'b');
         System.out.println( 'a'%'b');
-        2>3 ? System.out.println("Hello") : System.out.println("bye");
 
     }
 }
