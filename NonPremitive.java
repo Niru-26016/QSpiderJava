@@ -8,7 +8,7 @@ class book {
 public class NonPremitive {
 
     public static void main(String[] args) {
-        book a = new book();
+        book a = new book(); 
         a = null;
         System.out.println(a.Name);
     }
